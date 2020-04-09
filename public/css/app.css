@@ -10882,3 +10882,48 @@ a.text-dark:focus {
   }
 }
 
+.navbar-brand img {
+  max-width: 70px;
+  max-height: auto;
+}
+
+.nav-link {
+  font-size: 1rem;
+}
+
+.calltoaction {
+  color: #FF4500 !important;
+}
+
+.calltoaction:hover {
+  color: #521b07 !important;
+}
+
+.textmaincolor {
+  color: #FF4500 !important;
+}
+
+.categorybox {
+  border-radius: 9px;
+  border: 1px solid #3490dc;
+  background: #F8FAFC;
+  box-shadow: -6px -6px 20px white, 6px 6px 20px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.categorybox h5 {
+  margin-bottom: 0px !important;
+}
+
+.categoryboxs {
+  border-radius: 6px;
+  border: 1px solid #7babd1;
+  background: #F8FAFC;
+  box-shadow: -6px -6px 20px white, 6px 6px 20px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.categoryboxs h6 {
+  margin-bottom: 0px !important;
+}
+
